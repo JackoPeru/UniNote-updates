@@ -1,10 +1,10 @@
 {
-  "versionCode": 1048,
-  "versionName": "0.1.0-gh1048",
-  "tagName": "autoupdate-1048",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1048/UniNote-release.apk",
+  "versionCode": 1049,
+  "versionName": "0.1.0-gh1049",
+  "tagName": "autoupdate-1049",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1049/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 126101843,
-  "publishedAt": "2026-04-08T13:48:21Z",
-  "notes": ["Fix local AI streaming continuity and release build warnings"]
+  "assetSize": 126118227,
+  "publishedAt": "2026-04-08T14:17:57Z",
+  "notes": ["Expand assistant app actions and auto navigation"]
 }
