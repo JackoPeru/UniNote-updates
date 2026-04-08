@@ -1,9 +1,10 @@
 {
-  "versionCode": 1039,
-  "versionName": "0.1.0-gh1039",
-  "tagName": "autoupdate-1039",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1039/UniNote-release.apk",
+  "versionCode": 1040,
+  "versionName": "0.1.0-gh1040",
+  "tagName": "autoupdate-1040",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1040/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 125882029,
-  "publishedAt": "2026-04-08T09:40:21Z"
+  "assetSize": 126219561,
+  "publishedAt": "2026-04-08T10:05:48Z",
+  "notes": ["Improve study materials and update notes"]
 }
