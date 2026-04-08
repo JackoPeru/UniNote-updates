@@ -1,10 +1,10 @@
 {
-  "versionCode": 1046,
-  "versionName": "0.1.0-gh1046",
-  "tagName": "autoupdate-1046",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1046/UniNote-release.apk",
+  "versionCode": 1047,
+  "versionName": "0.1.0-gh1047",
+  "tagName": "autoupdate-1047",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1047/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 126101843,
-  "publishedAt": "2026-04-08T13:14:49Z",
-  "notes": ["Force GitHub JS actions onto Node 24"]
+  "publishedAt": "2026-04-08T13:25:44Z",
+  "notes": ["Publish releases with gh CLI in workflow"]
 }
