@@ -1,10 +1,10 @@
 {
-  "versionCode": 1043,
-  "versionName": "0.1.0-gh1043",
-  "tagName": "autoupdate-1043",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1043/UniNote-release.apk",
+  "versionCode": 1044,
+  "versionName": "0.1.0-gh1044",
+  "tagName": "autoupdate-1044",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1044/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 126235945,
-  "publishedAt": "2026-04-08T11:28:27Z",
-  "notes": ["Stabilize local AI streaming and cleanup app state"]
+  "assetSize": 126101843,
+  "publishedAt": "2026-04-08T12:51:03Z",
+  "notes": ["Fix AI streaming, notebook defaults, and clean release warnings"]
 }
