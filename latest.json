@@ -1,10 +1,10 @@
 {
-  "versionCode": 1047,
-  "versionName": "0.1.0-gh1047",
-  "tagName": "autoupdate-1047",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1047/UniNote-release.apk",
+  "versionCode": 1048,
+  "versionName": "0.1.0-gh1048",
+  "tagName": "autoupdate-1048",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1048/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 126101843,
-  "publishedAt": "2026-04-08T13:25:44Z",
-  "notes": ["Publish releases with gh CLI in workflow"]
+  "publishedAt": "2026-04-08T13:48:21Z",
+  "notes": ["Fix local AI streaming continuity and release build warnings"]
 }
