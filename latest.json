@@ -1,10 +1,10 @@
 {
-  "versionCode": 1040,
-  "versionName": "0.1.0-gh1040",
-  "tagName": "autoupdate-1040",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1040/UniNote-release.apk",
+  "versionCode": 1041,
+  "versionName": "0.1.0-gh1041",
+  "tagName": "autoupdate-1041",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1041/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 126219561,
-  "publishedAt": "2026-04-08T10:05:48Z",
-  "notes": ["Improve study materials and update notes"]
+  "publishedAt": "2026-04-08T10:33:02Z",
+  "notes": ["Add AI chat streaming and response metrics"]
 }
