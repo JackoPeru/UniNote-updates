@@ -1,10 +1,10 @@
 {
-  "versionCode": 1056,
-  "versionName": "0.1.0-gh1056",
-  "tagName": "autoupdate-1056",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1056/UniNote-release.apk",
+  "versionCode": 1057,
+  "versionName": "0.1.0-gh1057",
+  "tagName": "autoupdate-1057",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1057/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 193129581,
-  "publishedAt": "2026-04-08T22:52:11Z",
-  "notes": ["Add Android Whisper offline transcription"]
+  "assetSize": 193096813,
+  "publishedAt": "2026-04-08T23:42:40Z",
+  "notes": ["Refine lesson transcription drawer and editor tools"]
 }
