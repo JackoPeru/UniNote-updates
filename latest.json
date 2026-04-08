@@ -1,10 +1,10 @@
 {
-  "versionCode": 1055,
-  "versionName": "0.1.0-gh1055",
-  "tagName": "autoupdate-1055",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1055/UniNote-release.apk",
+  "versionCode": 1056,
+  "versionName": "0.1.0-gh1056",
+  "tagName": "autoupdate-1056",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1056/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 173157324,
-  "publishedAt": "2026-04-08T20:03:31Z",
-  "notes": ["Fix assistant memory retrieval for document queries"]
+  "assetSize": 193129581,
+  "publishedAt": "2026-04-08T22:52:11Z",
+  "notes": ["Add Android Whisper offline transcription"]
 }
