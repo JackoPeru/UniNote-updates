@@ -1,10 +1,10 @@
 {
-  "versionCode": 1050,
-  "versionName": "0.1.0-gh1050",
-  "tagName": "autoupdate-1050",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1050/UniNote-release.apk",
+  "versionCode": 1051,
+  "versionName": "0.1.0-gh1051",
+  "tagName": "autoupdate-1051",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1051/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 126118223,
-  "publishedAt": "2026-04-08T15:09:15Z",
-  "notes": ["Fix assistant multimodal runtime and clean build warnings"]
+  "assetSize": 126134607,
+  "publishedAt": "2026-04-08T15:53:41Z",
+  "notes": ["Strengthen LiteRT agent runtime and session lifecycle"]
 }
