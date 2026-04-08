@@ -1,10 +1,10 @@
 {
-  "versionCode": 1053,
-  "versionName": "0.1.0-gh1053",
-  "tagName": "autoupdate-1053",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1053/UniNote-release.apk",
+  "versionCode": 1054,
+  "versionName": "0.1.0-gh1054",
+  "tagName": "autoupdate-1054",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1054/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 126134607,
-  "publishedAt": "2026-04-08T17:02:34Z",
-  "notes": ["Disable live assistant token streaming"]
+  "assetSize": 173157328,
+  "publishedAt": "2026-04-08T19:39:37Z",
+  "notes": ["Add on-device hybrid memory retrieval"]
 }
