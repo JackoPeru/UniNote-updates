@@ -1,10 +1,10 @@
 {
-  "versionCode": 1062,
-  "versionName": "0.1.0-gh1062",
-  "tagName": "autoupdate-1062",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1062/UniNote-release.apk",
+  "versionCode": 1063,
+  "versionName": "0.1.0-gh1063",
+  "tagName": "autoupdate-1063",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1063/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 193147193,
-  "publishedAt": "2026-04-09T14:25:12Z",
-  "notes": ["Add transcript segment playback and retry tools"]
+  "assetSize": 193147189,
+  "publishedAt": "2026-04-09T15:10:25Z",
+  "notes": ["Fix editor transcript actions and recording lint regressions"]
 }
