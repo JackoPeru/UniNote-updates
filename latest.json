@@ -1,10 +1,10 @@
 {
-  "versionCode": 1061,
-  "versionName": "0.1.0-gh1061",
-  "tagName": "autoupdate-1061",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1061/UniNote-release.apk",
+  "versionCode": 1062,
+  "versionName": "0.1.0-gh1062",
+  "tagName": "autoupdate-1062",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1062/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 193130805,
-  "publishedAt": "2026-04-09T12:16:38Z",
-  "notes": ["Complete Whisper Android V2 transcription pipeline"]
+  "assetSize": 193147193,
+  "publishedAt": "2026-04-09T14:25:12Z",
+  "notes": ["Add transcript segment playback and retry tools"]
 }
