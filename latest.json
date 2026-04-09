@@ -1,10 +1,10 @@
 {
-  "versionCode": 1063,
-  "versionName": "0.1.0-gh1063",
-  "tagName": "autoupdate-1063",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1063/UniNote-release.apk",
+  "versionCode": 1064,
+  "versionName": "0.1.0-gh1064",
+  "tagName": "autoupdate-1064",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1064/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 193147189,
-  "publishedAt": "2026-04-09T15:10:25Z",
-  "notes": ["Fix editor transcript actions and recording lint regressions"]
+  "publishedAt": "2026-04-09T15:47:32Z",
+  "notes": ["Update project memory guidance"]
 }
