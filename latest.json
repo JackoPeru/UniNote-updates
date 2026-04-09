@@ -1,10 +1,10 @@
 {
-  "versionCode": 1058,
-  "versionName": "0.1.0-gh1058",
-  "tagName": "autoupdate-1058",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1058/UniNote-release.apk",
+  "versionCode": 1059,
+  "versionName": "0.1.0-gh1059",
+  "tagName": "autoupdate-1059",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1059/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 193080429,
-  "publishedAt": "2026-04-09T08:55:48Z",
-  "notes": ["Polish fullscreen editor and transcript drawer"]
+  "publishedAt": "2026-04-09T09:43:27Z",
+  "notes": ["Remove auto transcript prompts and refine editor palette"]
 }
