@@ -1,10 +1,10 @@
 {
-  "versionCode": 1065,
-  "versionName": "0.1.0-gh1065",
-  "tagName": "autoupdate-1065",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1065/UniNote-release.apk",
+  "versionCode": 1066,
+  "versionName": "0.1.0-gh1066",
+  "tagName": "autoupdate-1066",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1066/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 193163573,
-  "publishedAt": "2026-04-10T19:15:28Z",
-  "notes": ["Add navigation-only editor mode and harden Whisper chunk decoding"]
+  "assetSize": 193163577,
+  "publishedAt": "2026-04-10T19:46:51Z",
+  "notes": ["Add chunk-level transcript edit and delete actions"]
 }
