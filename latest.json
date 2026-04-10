@@ -1,10 +1,10 @@
 {
-  "versionCode": 1067,
-  "versionName": "0.1.0-gh1067",
-  "tagName": "autoupdate-1067",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1067/UniNote-release.apk",
+  "versionCode": 1068,
+  "versionName": "0.1.0-gh1068",
+  "tagName": "autoupdate-1068",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1068/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 193163573,
-  "publishedAt": "2026-04-10T20:05:38Z",
-  "notes": ["Enable one-finger pan in navigation-only mode"]
+  "publishedAt": "2026-04-10T20:35:29Z",
+  "notes": ["Add dark paper mode setting"]
 }
