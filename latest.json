@@ -1,10 +1,10 @@
 {
-  "versionCode": 1068,
-  "versionName": "0.1.0-gh1068",
-  "tagName": "autoupdate-1068",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1068/UniNote-release.apk",
+  "versionCode": 1069,
+  "versionName": "0.1.0-gh1069",
+  "tagName": "autoupdate-1069",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1069/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 193163573,
-  "publishedAt": "2026-04-10T20:35:29Z",
-  "notes": ["Add dark paper mode setting"]
+  "assetSize": 192778361,
+  "publishedAt": "2026-04-12T10:50:35Z",
+  "notes": ["Add on-demand page vision and context controls"]
 }
