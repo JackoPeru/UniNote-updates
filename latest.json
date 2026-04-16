@@ -1,10 +1,10 @@
 {
-  "versionCode": 1069,
-  "versionName": "0.1.0-gh1069",
-  "tagName": "autoupdate-1069",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1069/UniNote-release.apk",
+  "versionCode": 1070,
+  "versionName": "0.1.0-gh1070",
+  "tagName": "autoupdate-1070",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1070/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 192778361,
-  "publishedAt": "2026-04-12T10:50:35Z",
-  "notes": ["Add on-demand page vision and context controls"]
+  "assetSize": 192778357,
+  "publishedAt": "2026-04-16T20:05:35Z",
+  "notes": ["fix(editor): refine text blocks"]
 }
