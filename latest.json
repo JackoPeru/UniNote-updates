@@ -1,10 +1,10 @@
 {
-  "versionCode": 1073,
-  "versionName": "0.1.0-gh1073",
-  "tagName": "autoupdate-1073",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1073/UniNote-release.apk",
+  "versionCode": 1074,
+  "versionName": "0.1.0-gh1074",
+  "tagName": "autoupdate-1074",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1074/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 192794745,
-  "publishedAt": "2026-04-20T16:20:59Z",
-  "notes": ["fix(editor): stop accidental stroke erasing"]
+  "assetSize": 213864856,
+  "publishedAt": "2026-04-20T17:04:42Z",
+  "notes": ["feat(editor): add smart math recognition"]
 }
