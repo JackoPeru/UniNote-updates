@@ -1,10 +1,10 @@
 {
-  "versionCode": 1080,
-  "versionName": "0.1.0-gh1080",
-  "tagName": "autoupdate-1080",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1080/UniNote-release.apk",
+  "versionCode": 1081,
+  "versionName": "0.1.0-gh1081",
+  "tagName": "autoupdate-1081",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1081/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 213881240,
-  "publishedAt": "2026-04-21T08:45:05Z",
-  "notes": ["feat(editor): add smart math review card"]
+  "assetSize": 213881244,
+  "publishedAt": "2026-04-21T09:24:25Z",
+  "notes": ["fix(editor): always surface smart math"]
 }
