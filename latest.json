@@ -1,10 +1,10 @@
 {
-  "versionCode": 1084,
-  "versionName": "0.1.0-gh1084",
-  "tagName": "autoupdate-1084",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1084/UniNote-release.apk",
+  "versionCode": 1085,
+  "versionName": "0.1.0-gh1085",
+  "tagName": "autoupdate-1085",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1085/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 213897624,
-  "publishedAt": "2026-04-21T11:01:50Z",
-  "notes": ["Fix Smart Math result insertion flow"]
+  "assetSize": 213914012,
+  "publishedAt": "2026-04-21T11:28:26Z",
+  "notes": ["Add distraction-free editor mode"]
 }
