@@ -1,10 +1,10 @@
 {
-  "versionCode": 1085,
-  "versionName": "0.1.0-gh1085",
-  "tagName": "autoupdate-1085",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1085/UniNote-release.apk",
+  "versionCode": 1086,
+  "versionName": "0.1.0-gh1086",
+  "tagName": "autoupdate-1086",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1086/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 213914012,
-  "publishedAt": "2026-04-21T11:28:26Z",
-  "notes": ["Add distraction-free editor mode"]
+  "assetSize": 213930392,
+  "publishedAt": "2026-04-21T12:36:49Z",
+  "notes": ["Refine Essential Mode and settings"]
 }
