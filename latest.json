@@ -1,10 +1,10 @@
 {
-  "versionCode": 1083,
-  "versionName": "0.1.0-gh1083",
-  "tagName": "autoupdate-1083",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1083/UniNote-release.apk",
+  "versionCode": 1084,
+  "versionName": "0.1.0-gh1084",
+  "tagName": "autoupdate-1084",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1084/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 213897624,
-  "publishedAt": "2026-04-21T10:17:32Z",
-  "notes": ["fix(editor): use Gemma vision for smart math"]
+  "publishedAt": "2026-04-21T11:01:50Z",
+  "notes": ["Fix Smart Math result insertion flow"]
 }
