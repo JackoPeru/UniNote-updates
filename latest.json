@@ -1,10 +1,10 @@
 {
-  "versionCode": 1081,
-  "versionName": "0.1.0-gh1081",
-  "tagName": "autoupdate-1081",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1081/UniNote-release.apk",
+  "versionCode": 1082,
+  "versionName": "0.1.0-gh1082",
+  "tagName": "autoupdate-1082",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1082/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 213881244,
-  "publishedAt": "2026-04-21T09:24:25Z",
-  "notes": ["fix(editor): always surface smart math"]
+  "assetSize": 213897628,
+  "publishedAt": "2026-04-21T09:48:58Z",
+  "notes": ["fix(editor): add text block handles"]
 }
