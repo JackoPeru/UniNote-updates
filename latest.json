@@ -1,10 +1,10 @@
 {
-  "versionCode": 1082,
-  "versionName": "0.1.0-gh1082",
-  "tagName": "autoupdate-1082",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1082/UniNote-release.apk",
+  "versionCode": 1083,
+  "versionName": "0.1.0-gh1083",
+  "tagName": "autoupdate-1083",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1083/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 213897628,
-  "publishedAt": "2026-04-21T09:48:58Z",
-  "notes": ["fix(editor): add text block handles"]
+  "assetSize": 213897624,
+  "publishedAt": "2026-04-21T10:17:32Z",
+  "notes": ["fix(editor): use Gemma vision for smart math"]
 }
