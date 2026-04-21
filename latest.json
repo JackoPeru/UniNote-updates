@@ -1,10 +1,10 @@
 {
-  "versionCode": 1088,
-  "versionName": "0.1.0-gh1088",
-  "tagName": "autoupdate-1088",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1088/UniNote-release.apk",
+  "versionCode": 1089,
+  "versionName": "0.1.0-gh1089",
+  "tagName": "autoupdate-1089",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1089/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 213952020,
-  "publishedAt": "2026-04-21T17:18:39Z",
-  "notes": ["Refactor lesson capture startup"]
+  "assetSize": 213952864,
+  "publishedAt": "2026-04-21T18:18:18Z",
+  "notes": ["Harden storage and AI runtime"]
 }
