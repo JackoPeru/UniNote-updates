@@ -1,10 +1,10 @@
 {
-  "versionCode": 1092,
-  "versionName": "0.1.0-gh1092",
-  "tagName": "autoupdate-1092",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1092/UniNote-release.apk",
+  "versionCode": 1093,
+  "versionName": "0.1.0-gh1093",
+  "tagName": "autoupdate-1093",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1093/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 213969248,
-  "publishedAt": "2026-04-23T09:55:42Z",
-  "notes": ["fix(transcription): show live chunk progress"]
+  "assetSize": 213985632,
+  "publishedAt": "2026-04-23T14:10:51Z",
+  "notes": ["fix(transcription): restore chunk actions and audio archive"]
 }
