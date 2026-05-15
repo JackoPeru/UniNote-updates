@@ -1,10 +1,10 @@
 {
-  "versionCode": 1096,
-  "versionName": "0.1.0-gh1096",
-  "tagName": "autoupdate-1096",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1096/UniNote-release.apk",
+  "versionCode": 1097,
+  "versionName": "0.1.0-gh1097",
+  "tagName": "autoupdate-1097",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1097/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 72215580,
-  "publishedAt": "2026-05-15T17:22:20Z",
-  "notes": ["Polish concept map editor UX"]
+  "publishedAt": "2026-05-15T17:44:47Z",
+  "notes": ["Isolate editor maps from LiteRT"]
 }
