@@ -1,10 +1,10 @@
 {
-  "versionCode": 1095,
-  "versionName": "0.1.0-gh1095",
-  "tagName": "autoupdate-1095",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1095/UniNote-release.apk",
+  "versionCode": 1096,
+  "versionName": "0.1.0-gh1096",
+  "tagName": "autoupdate-1096",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1096/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 72215580,
-  "publishedAt": "2026-05-15T17:02:35Z",
-  "notes": ["Fix concept map generation crash"]
+  "publishedAt": "2026-05-15T17:22:20Z",
+  "notes": ["Polish concept map editor UX"]
 }
