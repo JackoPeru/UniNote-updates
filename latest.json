@@ -1,10 +1,10 @@
 {
-  "versionCode": 1102,
-  "versionName": "0.1.0-gh1102",
-  "tagName": "autoupdate-1102",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1102/UniNote-release.apk",
+  "versionCode": 1103,
+  "versionName": "0.1.0-gh1103",
+  "tagName": "autoupdate-1103",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1103/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72100968,
-  "publishedAt": "2026-05-19T07:44:50Z",
-  "notes": ["Reuse warm Gemma for editor inference"]
+  "assetSize": 72117352,
+  "publishedAt": "2026-05-19T08:07:06Z",
+  "notes": ["Show concept map generation progress"]
 }
