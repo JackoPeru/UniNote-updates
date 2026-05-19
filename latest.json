@@ -1,10 +1,10 @@
 {
-  "versionCode": 1108,
-  "versionName": "0.1.0-gh1108",
-  "tagName": "autoupdate-1108",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1108/UniNote-release.apk",
+  "versionCode": 1109,
+  "versionName": "0.1.0-gh1109",
+  "tagName": "autoupdate-1109",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1109/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72133732,
-  "publishedAt": "2026-05-19T17:24:34Z",
+  "assetSize": 72133736,
+  "publishedAt": "2026-05-19T17:25:14Z",
   "notes": ["Capture full page content for concept maps"]
 }
