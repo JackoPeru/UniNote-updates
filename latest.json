@@ -1,10 +1,10 @@
 {
-  "versionCode": 1105,
-  "versionName": "0.1.0-gh1105",
-  "tagName": "autoupdate-1105",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1105/UniNote-release.apk",
+  "versionCode": 1106,
+  "versionName": "0.1.0-gh1106",
+  "tagName": "autoupdate-1106",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1106/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 72117352,
-  "publishedAt": "2026-05-19T15:55:38Z",
-  "notes": ["Isolate direct JSON AI requests from agent tools"]
+  "publishedAt": "2026-05-19T16:31:36Z",
+  "notes": ["Split concept map page reading workflow"]
 }
