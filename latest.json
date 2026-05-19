@@ -1,10 +1,10 @@
 {
-  "versionCode": 1103,
-  "versionName": "0.1.0-gh1103",
-  "tagName": "autoupdate-1103",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1103/UniNote-release.apk",
+  "versionCode": 1104,
+  "versionName": "0.1.0-gh1104",
+  "tagName": "autoupdate-1104",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1104/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72117352,
-  "publishedAt": "2026-05-19T08:07:06Z",
-  "notes": ["Show concept map generation progress"]
+  "assetSize": 72117348,
+  "publishedAt": "2026-05-19T08:42:13Z",
+  "notes": ["Harden concept map AI parsing"]
 }
