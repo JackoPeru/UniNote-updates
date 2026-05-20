@@ -1,10 +1,10 @@
 {
-  "versionCode": 1111,
-  "versionName": "0.1.0-gh1111",
-  "tagName": "autoupdate-1111",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1111/UniNote-release.apk",
+  "versionCode": 1112,
+  "versionName": "0.1.0-gh1112",
+  "tagName": "autoupdate-1112",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1112/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 72133732,
-  "publishedAt": "2026-05-19T18:38:10Z",
-  "notes": ["Harden app runtime and release flow"]
+  "publishedAt": "2026-05-20T10:21:39Z",
+  "notes": ["Fix Smart Math release issues"]
 }
