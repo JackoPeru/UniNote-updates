@@ -1,10 +1,10 @@
 {
-  "versionCode": 1113,
-  "versionName": "0.1.0-gh1113",
-  "tagName": "autoupdate-1113",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1113/UniNote-release.apk",
+  "versionCode": 1114,
+  "versionName": "0.1.0-gh1114",
+  "tagName": "autoupdate-1114",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1114/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72215652,
-  "publishedAt": "2026-05-31T17:00:43Z",
-  "notes": ["Add study tests and improve concept maps"]
+  "assetSize": 72232036,
+  "publishedAt": "2026-05-31T17:27:24Z",
+  "notes": ["Improve AI test generation sources"]
 }
