@@ -1,10 +1,10 @@
 {
-  "versionCode": 1117,
-  "versionName": "0.1.0-gh1117",
-  "tagName": "autoupdate-1117",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1117/UniNote-release.apk",
+  "versionCode": 1118,
+  "versionName": "0.1.0-gh1118",
+  "tagName": "autoupdate-1118",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1118/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72379492,
-  "publishedAt": "2026-06-05T11:37:15Z",
-  "notes": ["feat: add Tutor section with Exam plans, study events and premium UI"]
+  "assetSize": 72412260,
+  "publishedAt": "2026-06-05T15:26:12Z",
+  "notes": ["Refine tutor UI from references"]
 }
