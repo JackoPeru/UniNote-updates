@@ -1,10 +1,10 @@
 {
-  "versionCode": 1115,
-  "versionName": "0.1.0-gh1115",
-  "tagName": "autoupdate-1115",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1115/UniNote-release.apk",
+  "versionCode": 1116,
+  "versionName": "0.1.0-gh1116",
+  "tagName": "autoupdate-1116",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1116/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72232036,
-  "publishedAt": "2026-06-04T17:40:47Z",
-  "notes": ["Improve UI responsiveness"]
+  "assetSize": 72264804,
+  "publishedAt": "2026-06-05T09:06:32Z",
+  "notes": ["Improve AI concept map generation"]
 }
