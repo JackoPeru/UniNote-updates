@@ -1,10 +1,10 @@
 {
-  "versionCode": 1118,
-  "versionName": "0.1.0-gh1118",
-  "tagName": "autoupdate-1118",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1118/UniNote-release.apk",
+  "versionCode": 1120,
+  "versionName": "0.1.0-gh1120",
+  "tagName": "autoupdate-1120",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1120/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72412260,
-  "publishedAt": "2026-06-05T15:26:12Z",
-  "notes": ["Refine tutor UI from references"]
+  "assetSize": 72412264,
+  "publishedAt": "2026-06-05T16:06:29Z",
+  "notes": ["Make tutor AI status truthful", "Add tutor lesson mode cards"]
 }
