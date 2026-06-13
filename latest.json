@@ -1,10 +1,10 @@
 {
-  "versionCode": 1122,
-  "versionName": "0.1.0-gh1122",
-  "tagName": "autoupdate-1122",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1122/UniNote-release.apk",
+  "versionCode": 1123,
+  "versionName": "0.1.0-gh1123",
+  "tagName": "autoupdate-1123",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1123/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72428648,
-  "publishedAt": "2026-06-05T17:26:18Z",
-  "notes": ["Improve tutor study plan journey"]
+  "assetSize": 72461412,
+  "publishedAt": "2026-06-13T12:34:19Z",
+  "notes": ["Add Tutor RAG and external AI providers"]
 }
