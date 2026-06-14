@@ -1,10 +1,10 @@
 {
-  "versionCode": 1124,
-  "versionName": "0.1.0-gh1124",
-  "tagName": "autoupdate-1124",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1124/UniNote-release.apk",
+  "versionCode": 1125,
+  "versionName": "0.1.0-gh1125",
+  "tagName": "autoupdate-1125",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1125/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72477796,
-  "publishedAt": "2026-06-14T09:04:44Z",
-  "notes": ["Improve Tutor navigation and task feedback"]
+  "assetSize": 72494184,
+  "publishedAt": "2026-06-14T17:49:06Z",
+  "notes": ["Fix Tutor provider progress and topic actions"]
 }
