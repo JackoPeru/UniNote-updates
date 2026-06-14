@@ -1,10 +1,10 @@
 {
-  "versionCode": 1125,
-  "versionName": "0.1.0-gh1125",
-  "tagName": "autoupdate-1125",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1125/UniNote-release.apk",
+  "versionCode": 1126,
+  "versionName": "0.1.0-gh1126",
+  "tagName": "autoupdate-1126",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1126/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72494184,
-  "publishedAt": "2026-06-14T17:49:06Z",
-  "notes": ["Fix Tutor provider progress and topic actions"]
+  "assetSize": 72510568,
+  "publishedAt": "2026-06-14T18:15:51Z",
+  "notes": ["Build Tutor guided lesson workflow"]
 }
