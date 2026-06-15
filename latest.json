@@ -1,10 +1,10 @@
 {
-  "versionCode": 1128,
-  "versionName": "0.1.0-gh1128",
-  "tagName": "autoupdate-1128",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1128/UniNote-release.apk",
+  "versionCode": 1129,
+  "versionName": "0.1.0-gh1129",
+  "tagName": "autoupdate-1129",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1129/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 72576164,
-  "publishedAt": "2026-06-15T11:10:36Z",
-  "notes": ["Harden Tutor RAG and provider flows"]
+  "publishedAt": "2026-06-15T13:18:21Z",
+  "notes": ["Bound Tutor provider connection tests"]
 }
