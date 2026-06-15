@@ -1,10 +1,10 @@
 {
-  "versionCode": 1130,
-  "versionName": "0.1.0-gh1130",
-  "tagName": "autoupdate-1130",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1130/UniNote-release.apk",
+  "versionCode": 1131,
+  "versionName": "0.1.0-gh1131",
+  "tagName": "autoupdate-1131",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1131/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 72576164,
-  "publishedAt": "2026-06-15T13:40:35Z",
-  "notes": ["Support NVIDIA pending provider responses"]
+  "publishedAt": "2026-06-15T14:09:04Z",
+  "notes": ["Clarify NVIDIA provider authorization failures"]
 }
