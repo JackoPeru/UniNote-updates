@@ -1,10 +1,10 @@
 {
-  "versionCode": 1131,
-  "versionName": "0.1.0-gh1131",
-  "tagName": "autoupdate-1131",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1131/UniNote-release.apk",
+  "versionCode": 1132,
+  "versionName": "0.1.0-gh1132",
+  "tagName": "autoupdate-1132",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1132/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72576164,
-  "publishedAt": "2026-06-15T14:09:04Z",
-  "notes": ["Clarify NVIDIA provider authorization failures"]
+  "assetSize": 72592548,
+  "publishedAt": "2026-06-17T10:10:04Z",
+  "notes": ["Strengthen Tutor AI prompts"]
 }
