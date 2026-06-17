@@ -1,10 +1,10 @@
 {
-  "versionCode": 1135,
-  "versionName": "0.1.0-gh1135",
-  "tagName": "autoupdate-1135",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1135/UniNote-release.apk",
+  "versionCode": 1136,
+  "versionName": "0.1.0-gh1136",
+  "tagName": "autoupdate-1136",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1136/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72608932,
-  "publishedAt": "2026-06-17T18:00:49Z",
-  "notes": ["Harden Tutor exam plan generation"]
+  "assetSize": 72625316,
+  "publishedAt": "2026-06-17T18:36:28Z",
+  "notes": ["Persist and compact Tutor lesson context"]
 }
