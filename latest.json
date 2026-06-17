@@ -1,10 +1,10 @@
 {
-  "versionCode": 1133,
-  "versionName": "0.1.0-gh1133",
-  "tagName": "autoupdate-1133",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1133/UniNote-release.apk",
+  "versionCode": 1134,
+  "versionName": "0.1.0-gh1134",
+  "tagName": "autoupdate-1134",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1134/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 72592548,
-  "publishedAt": "2026-06-17T11:13:21Z",
-  "notes": ["Improve Tutor prompts and release workflow"]
+  "publishedAt": "2026-06-17T11:51:46Z",
+  "notes": ["Improve Tutor RAG retrieval"]
 }
