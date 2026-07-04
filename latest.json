@@ -1,10 +1,10 @@
 {
-  "versionCode": 1136,
-  "versionName": "0.1.0-gh1136",
-  "tagName": "autoupdate-1136",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1136/UniNote-release.apk",
+  "versionCode": 1137,
+  "versionName": "0.1.0-gh1137",
+  "tagName": "autoupdate-1137",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1137/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72625316,
-  "publishedAt": "2026-06-17T18:36:28Z",
-  "notes": ["Persist and compact Tutor lesson context"]
+  "assetSize": 72641700,
+  "publishedAt": "2026-07-04T19:56:27Z",
+  "notes": ["Improve tutor journey and release cleanup"]
 }
