@@ -1,10 +1,10 @@
 {
-  "versionCode": 1137,
-  "versionName": "0.1.0-gh1137",
-  "tagName": "autoupdate-1137",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1137/UniNote-release.apk",
+  "versionCode": 1138,
+  "versionName": "0.1.0-gh1138",
+  "tagName": "autoupdate-1138",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1138/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 72641700,
-  "publishedAt": "2026-07-04T19:56:27Z",
-  "notes": ["Improve tutor journey and release cleanup"]
+  "publishedAt": "2026-07-07T16:13:51Z",
+  "notes": ["Miglioramenti generali di stabilita, rifiniture UX e ottimizzazioni locali."]
 }
