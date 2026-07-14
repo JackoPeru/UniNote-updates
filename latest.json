@@ -1,10 +1,10 @@
 {
-  "versionCode": 1139,
-  "versionName": "0.1.0-gh1139",
-  "tagName": "autoupdate-1139",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1139/UniNote-release.apk",
+  "versionCode": 1140,
+  "versionName": "0.1.0-gh1140",
+  "tagName": "autoupdate-1140",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1140/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72658084,
-  "publishedAt": "2026-07-14T10:08:01Z",
-  "notes": ["Use direct server AI and post-recording STT"]
+  "assetSize": 72674468,
+  "publishedAt": "2026-07-14T11:20:30Z",
+  "notes": ["Route UniNote AI through direct server"]
 }
