@@ -1,10 +1,10 @@
 {
-  "versionCode": 1140,
-  "versionName": "0.1.0-gh1140",
-  "tagName": "autoupdate-1140",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1140/UniNote-release.apk",
+  "versionCode": 1141,
+  "versionName": "0.1.0-gh1141",
+  "tagName": "autoupdate-1141",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1141/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72674468,
-  "publishedAt": "2026-07-14T11:20:30Z",
-  "notes": ["Route UniNote AI through direct server"]
+  "assetSize": 72576196,
+  "publishedAt": "2026-07-15T20:10:32Z",
+  "notes": ["Rendi il RAG server-first e rifinisci l'app"]
 }
