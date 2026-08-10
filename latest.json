@@ -1,10 +1,10 @@
 {
-  "versionCode": 1141,
-  "versionName": "0.1.0-gh1141",
-  "tagName": "autoupdate-1141",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1141/UniNote-release.apk",
+  "versionCode": 1142,
+  "versionName": "0.1.0-gh1142",
+  "tagName": "autoupdate-1142",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1142/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72576196,
-  "publishedAt": "2026-07-15T20:10:32Z",
-  "notes": ["Rendi il RAG server-first e rifinisci l'app"]
+  "assetSize": 72608964,
+  "publishedAt": "2026-08-10T09:54:19Z",
+  "notes": ["Migliora Tutor e unifica il RAG"]
 }
