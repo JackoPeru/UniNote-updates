@@ -1,10 +1,10 @@
 {
-  "versionCode": 1142,
-  "versionName": "0.1.0-gh1142",
-  "tagName": "autoupdate-1142",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1142/UniNote-release.apk",
+  "versionCode": 1143,
+  "versionName": "0.1.0-gh1143",
+  "tagName": "autoupdate-1143",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1143/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 72608964,
-  "publishedAt": "2026-08-10T09:54:19Z",
-  "notes": ["Migliora Tutor e unifica il RAG"]
+  "assetSize": 77335138,
+  "publishedAt": "2026-08-20T17:14:56Z",
+  "notes": ["Add local Prism Bonsai engine", "Simplify Tutor study plan creation", "Refactor UniNote modular monolith"]
 }
