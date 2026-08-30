@@ -1,10 +1,10 @@
 {
-  "versionCode": 1143,
-  "versionName": "0.1.0-gh1143",
-  "tagName": "autoupdate-1143",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1143/UniNote-release.apk",
+  "versionCode": 1144,
+  "versionName": "0.1.0-gh1144",
+  "tagName": "autoupdate-1144",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1144/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 77335138,
-  "publishedAt": "2026-08-20T17:14:56Z",
-  "notes": ["Add local Prism Bonsai engine", "Simplify Tutor study plan creation", "Refactor UniNote modular monolith"]
+  "assetSize": 77351518,
+  "publishedAt": "2026-08-30T19:20:32Z",
+  "notes": ["Harden UniNote architecture, data safety and CI"]
 }
