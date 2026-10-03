@@ -1,12 +1,12 @@
 {
-  "versionCode": 1148,
-  "versionName": "0.1.0-gh1148",
-  "tagName": "autoupdate-1148",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1148/UniNote-release.apk",
+  "versionCode": 1149,
+  "versionName": "0.1.0-gh1149",
+  "tagName": "autoupdate-1149",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1149/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 77670402,
-  "sha256": "0ebdaed5f0be4441bc7c75a6cf058a68722159598a0a8f1797f11057cf025ac2",
-  "signature": "MEUCIFUec5O7IueVrHG4e9SAobq/IdwV6LPOYFPMYBkHgGeRAiEAsLiUhGcFSYAuWjSYPXlxK+7IWnOr3/EX+u7UIZTMi7g=",
-  "publishedAt": "2026-10-03T20:24:32Z",
-  "notes": ["Bug bounty totale: 6 agenti paralleli, fix verificati, test verdi", "Vision RAG hardening: render cappato, screenKey protetto, hash contenuto, budget sync, label VISION, purge orfani", "Vision RAG scrittura a mano: snapshot headless + trascrizione IA in rag_chunks con cache", "Tutor: bottoni reintegrati con mete distinte (Fonti, Preparazioni, due percorsi creazione)", "Tutor perfetto: retry reale, cancel lezione, chat persistente, activity differenziate, recording fonti, reminder esame, share, zero placeholder", "Doc rotazione chiave firma + release 1147 firmata"]
+  "assetSize": 77686786,
+  "sha256": "e6c792db897b3db8377893b2a3686a83e4a227d0e94a4ef6d17980a051df6a6f",
+  "signature": "",
+  "publishedAt": "2026-10-03T21:11:15Z",
+  "notes": ["Audit math: fix solver Cardano/Cramer/parser + harvest sicuro + stile con indicatore", "SmartMath: cubiche Cardano + sistemi lineari 2x2, test dedicati", "SmartMath library: filtro punti non-finiti in harvest", "Smart Math grafia personale: harvest simboli riconosciuti, libreria prefs, render misto con fallback", "Smart Math stile a mano: match penna, glifi umanizzati, toggle long-press"]
 }
