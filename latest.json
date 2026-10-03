@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 77703171,
   "sha256": "ae9249da3392fc90cb05afbc8e71647f417aabb32949ffc99d08b8da2fe0b177",
-  "signature": "",
+  "signature": "MEYCIQD3yUJ+M+gRqTburl/TrHMd7u1AvSiK52KfnL34rdPjUAIhALwMbtyzfom1rEqlef60KP+MyxkhsIdvXEBeYiKFeihH",
   "publishedAt": "2026-10-03T22:49:35Z",
   "notes": ["Assistente: sidebar chiudibile (back + FAB sopra), bottone persistente riposizionabile (angoli + drag libero)"]
 }
