@@ -1,12 +1,12 @@
 {
-  "versionCode": 1150,
-  "versionName": "0.1.0-gh1150",
-  "tagName": "autoupdate-1150",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1150/UniNote-release.apk",
+  "versionCode": 1151,
+  "versionName": "0.1.0-gh1151",
+  "tagName": "autoupdate-1151",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1151/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 77686786,
-  "sha256": "92964474a60811483ff6f88920ed08a3902e97ac982bde5cbc9371c45db2c483",
-  "signature": "MEYCIQCw+l8K7zrITdGSD0lcOpihXxu7QlNnwGn4qdhN2fi5IwIhAL167w5Rjg96BCzDju1ZDm0pVQMhN5FU7fYPsuBcDVCp",
-  "publishedAt": "2026-10-03T22:17:25Z",
-  "notes": ["SmartMath: feedback apprendimento visibile (segni imparati nel messaggio)"]
+  "assetSize": 77703171,
+  "sha256": "ae9249da3392fc90cb05afbc8e71647f417aabb32949ffc99d08b8da2fe0b177",
+  "signature": "",
+  "publishedAt": "2026-10-03T22:49:35Z",
+  "notes": ["Assistente: sidebar chiudibile (back + FAB sopra), bottone persistente riposizionabile (angoli + drag libero)"]
 }
