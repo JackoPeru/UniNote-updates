@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 77604866,
   "sha256": "4fa15d461fd79d0c1f325db869bf52292fd21784ca735be320be9de4cdf167ce",
-  "signature": "",
+  "signature": "MEQCIEunT7hBpOj7saBUejzaOJnZB1RYUua7EyCLCw8NY679AiAJyWHCn+3rF0ZR6tDlAwF0j/JaK4umVQ/MxSvEmljN7w==",
   "publishedAt": "2026-10-03T16:50:03Z",
   "notes": ["Rotazione chiave firma update 2026-10-03: nuova SPKI P-256 incorporata"]
 }
