@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 77686786,
   "sha256": "e6c792db897b3db8377893b2a3686a83e4a227d0e94a4ef6d17980a051df6a6f",
-  "signature": "",
+  "signature": "MEYCIQD5sy1nMLT9Tqs2AH46fX0B4KztyoOGz0kmGB5G2J+YCAIhAOzHAvvvIMU7v/Atju7dW3l1ZJoFtp0oR7lZxfSbPU8z",
   "publishedAt": "2026-10-03T21:11:15Z",
   "notes": ["Audit math: fix solver Cardano/Cramer/parser + harvest sicuro + stile con indicatore", "SmartMath: cubiche Cardano + sistemi lineari 2x2, test dedicati", "SmartMath library: filtro punti non-finiti in harvest", "Smart Math grafia personale: harvest simboli riconosciuti, libreria prefs, render misto con fallback", "Smart Math stile a mano: match penna, glifi umanizzati, toggle long-press"]
 }
