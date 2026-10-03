@@ -1,12 +1,12 @@
 {
-  "versionCode": 1147,
-  "versionName": "0.1.0-gh1147",
-  "tagName": "autoupdate-1147",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1147/UniNote-release.apk",
+  "versionCode": 1148,
+  "versionName": "0.1.0-gh1148",
+  "tagName": "autoupdate-1148",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1148/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 77604866,
-  "sha256": "4fa15d461fd79d0c1f325db869bf52292fd21784ca735be320be9de4cdf167ce",
-  "signature": "MEQCIEunT7hBpOj7saBUejzaOJnZB1RYUua7EyCLCw8NY679AiAJyWHCn+3rF0ZR6tDlAwF0j/JaK4umVQ/MxSvEmljN7w==",
-  "publishedAt": "2026-10-03T16:50:03Z",
-  "notes": ["Rotazione chiave firma update 2026-10-03: nuova SPKI P-256 incorporata"]
+  "assetSize": 77670402,
+  "sha256": "0ebdaed5f0be4441bc7c75a6cf058a68722159598a0a8f1797f11057cf025ac2",
+  "signature": "",
+  "publishedAt": "2026-10-03T20:24:32Z",
+  "notes": ["Bug bounty totale: 6 agenti paralleli, fix verificati, test verdi", "Vision RAG hardening: render cappato, screenKey protetto, hash contenuto, budget sync, label VISION, purge orfani", "Vision RAG scrittura a mano: snapshot headless + trascrizione IA in rag_chunks con cache", "Tutor: bottoni reintegrati con mete distinte (Fonti, Preparazioni, due percorsi creazione)", "Tutor perfetto: retry reale, cancel lezione, chat persistente, activity differenziate, recording fonti, reminder esame, share, zero placeholder", "Doc rotazione chiave firma + release 1147 firmata"]
 }
