@@ -1,12 +1,12 @@
 {
-  "versionCode": 1146,
-  "versionName": "0.1.0-gh1146",
-  "tagName": "autoupdate-1146",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1146/UniNote-release.apk",
+  "versionCode": 1147,
+  "versionName": "0.1.0-gh1147",
+  "tagName": "autoupdate-1147",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1147/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 77604866,
-  "sha256": "f65076bb3fa57a3e247ff0d76acebd6d9177fb3c7de0fcdfcf85922cb3214582",
+  "sha256": "4fa15d461fd79d0c1f325db869bf52292fd21784ca735be320be9de4cdf167ce",
   "signature": "",
-  "publishedAt": "2026-10-03T16:29:02Z",
-  "notes": ["Impostazioni hub-and-spoke con ricerca: 10 sezioni, sottotitoli stato, back, rotazione", "Audit regressione: total esatto, Retry-After 503, GET/mcp pubblico, hasValue null-tollerante, reorder guard, persistDirty", "Fix rinviati 2026-10-03: MCP pool 503, Tutor warnings/reorder/revision, capture streaming, editor epoch, data tx", "Audit parallelo 2026-10-03: fix HIGH MCP/Tutor + hardening capture, update, editor, backup"]
+  "publishedAt": "2026-10-03T16:50:03Z",
+  "notes": ["Rotazione chiave firma update 2026-10-03: nuova SPKI P-256 incorporata"]
 }
