@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 77670402,
   "sha256": "0ebdaed5f0be4441bc7c75a6cf058a68722159598a0a8f1797f11057cf025ac2",
-  "signature": "",
+  "signature": "MEUCIFUec5O7IueVrHG4e9SAobq/IdwV6LPOYFPMYBkHgGeRAiEAsLiUhGcFSYAuWjSYPXlxK+7IWnOr3/EX+u7UIZTMi7g=",
   "publishedAt": "2026-10-03T20:24:32Z",
   "notes": ["Bug bounty totale: 6 agenti paralleli, fix verificati, test verdi", "Vision RAG hardening: render cappato, screenKey protetto, hash contenuto, budget sync, label VISION, purge orfani", "Vision RAG scrittura a mano: snapshot headless + trascrizione IA in rag_chunks con cache", "Tutor: bottoni reintegrati con mete distinte (Fonti, Preparazioni, due percorsi creazione)", "Tutor perfetto: retry reale, cancel lezione, chat persistente, activity differenziate, recording fonti, reminder esame, share, zero placeholder", "Doc rotazione chiave firma + release 1147 firmata"]
 }
