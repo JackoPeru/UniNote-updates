@@ -1,12 +1,12 @@
 {
-  "versionCode": 1145,
-  "versionName": "0.1.0-gh1145",
-  "tagName": "autoupdate-1145",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1145/UniNote-release.apk",
+  "versionCode": 1146,
+  "versionName": "0.1.0-gh1146",
+  "tagName": "autoupdate-1146",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1146/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 77515842,
-  "sha256": "c858cab9b486ade75901f500de3ecdacbd705ae7350eae5b7848d44681b0b297",
+  "assetSize": 77604866,
+  "sha256": "f65076bb3fa57a3e247ff0d76acebd6d9177fb3c7de0fcdfcf85922cb3214582",
   "signature": "",
-  "publishedAt": "2026-10-01T20:05:12Z",
-  "notes": ["Release workflow: pubblica sha256 nel feed + promemoria firma fail-closed", "Audit giro: hardening MCP transport (413/501/header-cap/head-cap, SSE framing), import cleanup", "Audit pre-release: hardening capture, Tutor, MCP, update, restore, onboarding", "Chiave firma update incorporata (ECDSA P-256)", "Decisioni prodotto 2026-09-30: restore, planRevision, confirm agent, update firmato", "Audit 3: hardening editor, capture, assistant, notebook, settings, trascrizione"]
+  "publishedAt": "2026-10-03T16:29:02Z",
+  "notes": ["Impostazioni hub-and-spoke con ricerca: 10 sezioni, sottotitoli stato, back, rotazione", "Audit regressione: total esatto, Retry-After 503, GET/mcp pubblico, hasValue null-tollerante, reorder guard, persistDirty", "Fix rinviati 2026-10-03: MCP pool 503, Tutor warnings/reorder/revision, capture streaming, editor epoch, data tx", "Audit parallelo 2026-10-03: fix HIGH MCP/Tutor + hardening capture, update, editor, backup"]
 }
