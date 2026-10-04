@@ -1,12 +1,12 @@
 {
-  "versionCode": 1151,
-  "versionName": "0.1.0-gh1151",
-  "tagName": "autoupdate-1151",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1151/UniNote-release.apk",
+  "versionCode": 1152,
+  "versionName": "0.1.0-gh1152",
+  "tagName": "autoupdate-1152",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1152/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 77703171,
-  "sha256": "ae9249da3392fc90cb05afbc8e71647f417aabb32949ffc99d08b8da2fe0b177",
-  "signature": "MEYCIQD3yUJ+M+gRqTburl/TrHMd7u1AvSiK52KfnL34rdPjUAIhALwMbtyzfom1rEqlef60KP+MyxkhsIdvXEBeYiKFeihH",
-  "publishedAt": "2026-10-03T22:49:35Z",
-  "notes": ["Assistente: sidebar chiudibile (back + FAB sopra), bottone persistente riposizionabile (angoli + drag libero)"]
+  "assetSize": 77703175,
+  "sha256": "43572a819eef153b5ee3e02d1a25bc70549f959cdc3f67d4073c01c5252be165",
+  "signature": "",
+  "publishedAt": "2026-10-04T09:50:05Z",
+  "notes": ["FAB assistente: sync live overlay+impostazioni (doppia scrittura)"]
 }
