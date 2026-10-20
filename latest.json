@@ -1,12 +1,12 @@
 {
-  "versionCode": 1153,
-  "versionName": "0.1.0-gh1153",
-  "tagName": "autoupdate-1153",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1153/UniNote-release.apk",
+  "versionCode": 1155,
+  "versionName": "0.1.0-gh1155",
+  "tagName": "autoupdate-1155",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1155/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 98852151,
-  "sha256": "6bf9f5569ab7aaa179d764b8c0318475b34ee3389d308f261c91108245443b99",
-  "signature": "MEQCIAjVYKH8BlPzSKOdGvWbtyR8aK8OLsuJB8fkflsPeihsAiAqe8HbpLUiwciDoyKowMFIrp9Ofi39S//3cQt9sCNQvQ==",
-  "publishedAt": "2026-10-20T18:12:12Z",
-  "notes": ["Esecuzione codice: Python on-device (CPython embed) + C via server, bottone Esegui", "Blocchi codice: canvas testo speciale, linguaggi, file separati + share", "SmartMath automatico: rilevamento locale dopo scrittura, toggle impostazioni, anti-loop"]
+  "assetSize": 98868147,
+  "sha256": "d9efbd203e137c189070a8e33959e87950644f09f7ad612e6e66f90ebfdc8313",
+  "signature": "",
+  "publishedAt": "2026-10-20T22:22:01Z",
+  "notes": ["Codeexec FULL mode: path jniLibs corretto, GetArrayLength, forward decl, gitignore staging", "Ignora pycache docs", "Bug bounty: 5 agenti fix verificati + @Tool mutativi con conferma"]
 }
