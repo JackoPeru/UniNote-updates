@@ -1,12 +1,12 @@
 {
-  "versionCode": 1152,
-  "versionName": "0.1.0-gh1152",
-  "tagName": "autoupdate-1152",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1152/UniNote-release.apk",
+  "versionCode": 1153,
+  "versionName": "0.1.0-gh1153",
+  "tagName": "autoupdate-1153",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1153/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 77703175,
-  "sha256": "43572a819eef153b5ee3e02d1a25bc70549f959cdc3f67d4073c01c5252be165",
-  "signature": "MEYCIQD6lg9q6YAO2rkPaYUxTKCkWYiB6CLlB5oTKy3hqPFOIQIhAMs5duEcoeJB8y+Y3gfakq3Nv9PP2zqBz9CPoKRSejqu",
-  "publishedAt": "2026-10-04T09:50:05Z",
-  "notes": ["FAB assistente: sync live overlay+impostazioni (doppia scrittura)"]
+  "assetSize": 98852151,
+  "sha256": "6bf9f5569ab7aaa179d764b8c0318475b34ee3389d308f261c91108245443b99",
+  "signature": "",
+  "publishedAt": "2026-10-20T18:12:12Z",
+  "notes": ["Esecuzione codice: Python on-device (CPython embed) + C via server, bottone Esegui", "Blocchi codice: canvas testo speciale, linguaggi, file separati + share", "SmartMath automatico: rilevamento locale dopo scrittura, toggle impostazioni, anti-loop"]
 }
