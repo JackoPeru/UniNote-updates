@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 98868147,
   "sha256": "d9efbd203e137c189070a8e33959e87950644f09f7ad612e6e66f90ebfdc8313",
-  "signature": "",
+  "signature": "MEYCIQCNLOIXdpssMIaxjeSyEg6D2qiOlKSMhf+4NlNMxM0GqQIhAI5JywatzhRTrNKvV8nw0JBiP5Y0wFkeePM8T+g3qO4V",
   "publishedAt": "2026-10-20T22:22:01Z",
   "notes": ["Codeexec FULL mode: path jniLibs corretto, GetArrayLength, forward decl, gitignore staging", "Ignora pycache docs", "Bug bounty: 5 agenti fix verificati + @Tool mutativi con conferma"]
 }
