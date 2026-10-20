@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 98852151,
   "sha256": "6bf9f5569ab7aaa179d764b8c0318475b34ee3389d308f261c91108245443b99",
-  "signature": "",
+  "signature": "MEQCIAjVYKH8BlPzSKOdGvWbtyR8aK8OLsuJB8fkflsPeihsAiAqe8HbpLUiwciDoyKowMFIrp9Ofi39S//3cQt9sCNQvQ==",
   "publishedAt": "2026-10-20T18:12:12Z",
   "notes": ["Esecuzione codice: Python on-device (CPython embed) + C via server, bottone Esegui", "Blocchi codice: canvas testo speciale, linguaggi, file separati + share", "SmartMath automatico: rilevamento locale dopo scrittura, toggle impostazioni, anti-loop"]
 }
