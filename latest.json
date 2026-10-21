@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 98868843,
   "sha256": "345b0de0c9ec8ca767f902b934dc0061c23ba0a391780bcd7fddcd15d649a52b",
-  "signature": "",
+  "signature": "MEQCIC4oS/Oy/lyc6V4l5lmB0m3vnWFpmmz3Wx+PBQyDKBIJAiAaHwLMvDvmZlY82p/SxazVVHWN9tB4ZRhxRXueRYvJ4Q==",
   "publishedAt": "2026-10-21T20:27:20Z",
   "notes": ["Blocchi codice grandi e scrivibili: default meta schermo x10 righe, tastiera esplicita, tap penna senza puntino"]
 }
