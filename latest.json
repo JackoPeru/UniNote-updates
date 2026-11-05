@@ -1,12 +1,12 @@
 {
-  "versionCode": 1160,
-  "versionName": "0.1.0-gh1160",
-  "tagName": "autoupdate-1160",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1160/UniNote-release.apk",
+  "versionCode": 1161,
+  "versionName": "0.1.0-gh1161",
+  "tagName": "autoupdate-1161",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1161/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 100246008,
-  "sha256": "08460b10a09bd57de01df1734e1d8bd245b15aa8f1ad33c1ae2696a9e36a7361",
-  "signature": "MEQCIB1o22wWiNsAgvR3NcYL7BmF9JjYrxhW+jWkyYd/tRmVAiBPaQU6O2y2fm1Omqz2ow21aznVwPETyHCxZx4USj8dxA==",
-  "publishedAt": "2026-11-05T21:47:20Z",
-  "notes": ["Import media dimensionato alla vista visibile: maniglie sempre raggiungibili"]
+  "assetSize": 100262380,
+  "sha256": "28b2ad83053dcf58770e39dc110c198ee30e65c3a17558f606b6baed531910e7",
+  "signature": "",
+  "publishedAt": "2026-11-05T22:37:51Z",
+  "notes": ["Drag maniglie testo e media live dal layer sopra: transient + singolo undo"]
 }
