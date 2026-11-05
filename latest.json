@@ -1,12 +1,12 @@
 {
-  "versionCode": 1159,
-  "versionName": "0.1.0-gh1159",
-  "tagName": "autoupdate-1159",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1159/UniNote-release.apk",
+  "versionCode": 1160,
+  "versionName": "0.1.0-gh1160",
+  "tagName": "autoupdate-1160",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1160/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 100246008,
-  "sha256": "1227958c33829319d96644dc8511a522b12960c3345043ed3c3c6da37d9e4307",
-  "signature": "MEUCIQCDxrJ3bl0XrJRf+tHhx4Loig1JiRQ+RwzGTF5/pNPM1wIgVMkwcUux007H94hLuZO+3ftE7bEDn3DVo5JYSiDr+U4=",
-  "publishedAt": "2026-11-05T17:43:38Z",
-  "notes": ["Media nel foglio: maniglie e tap-select funzionanti in penna via zone esclusione"]
+  "sha256": "08460b10a09bd57de01df1734e1d8bd245b15aa8f1ad33c1ae2696a9e36a7361",
+  "signature": "",
+  "publishedAt": "2026-11-05T21:47:20Z",
+  "notes": ["Import media dimensionato alla vista visibile: maniglie sempre raggiungibili"]
 }
