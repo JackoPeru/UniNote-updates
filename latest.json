@@ -1,12 +1,12 @@
 {
-  "versionCode": 1158,
-  "versionName": "0.1.0-gh1158",
-  "tagName": "autoupdate-1158",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1158/UniNote-release.apk",
+  "versionCode": 1159,
+  "versionName": "0.1.0-gh1159",
+  "tagName": "autoupdate-1159",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1159/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
   "assetSize": 100246008,
-  "sha256": "652dc580dad42684e69dc20b1bab9b06c2babd41100667356e7e0d75ee096c16",
-  "signature": "MEQCIDftLOzIuR2T2bMczN8paJ4ZN97qsAKO9HC9PaixvIHXAiAlxOV+Y44qL/JpGkYoRzvffNdfhecDVx4WuDkI78YrbA==",
-  "publishedAt": "2026-11-05T15:54:08Z",
-  "notes": ["Miglioramenti generali di stabilita, rifiniture UX e ottimizzazioni locali."]
+  "sha256": "1227958c33829319d96644dc8511a522b12960c3345043ed3c3c6da37d9e4307",
+  "signature": "",
+  "publishedAt": "2026-11-05T17:43:38Z",
+  "notes": ["Media nel foglio: maniglie e tap-select funzionanti in penna via zone esclusione"]
 }
