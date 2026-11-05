@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 100262380,
   "sha256": "28b2ad83053dcf58770e39dc110c198ee30e65c3a17558f606b6baed531910e7",
-  "signature": "",
+  "signature": "MEUCIQDgwmDUHLZ+yCfPspcC5zpEfb9D5TzglHHgiQxZ3g2okwIgBjMaAZsEWhtNAp5h3XBv67JRmyUwdyo/9Dj0Puay7wA=",
   "publishedAt": "2026-11-05T22:37:51Z",
   "notes": ["Drag maniglie testo e media live dal layer sopra: transient + singolo undo"]
 }
