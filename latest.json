@@ -1,12 +1,12 @@
 {
-  "versionCode": 1163,
-  "versionName": "0.1.0-gh1163",
-  "tagName": "autoupdate-1163",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1163/UniNote-release.apk",
+  "versionCode": 1164,
+  "versionName": "0.1.0-gh1164",
+  "tagName": "autoupdate-1164",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1164/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 100278780,
-  "sha256": "e8192fc1f6c9ac93c1531812a60f92c21c1bc71e511a474a0b70f3b2e1f3835f",
-  "signature": "MEYCIQCRTCh+wXxcaKlFDTaZ33Z09GEq/ksY2c612wmIRi6ucAIhAKhUdl5Qp3eXFJBUinzpHhvEgHy/8RaZTfBiX3ovgQo3",
-  "publishedAt": "2026-11-06T14:23:46Z",
-  "notes": ["Media: selezione stabile, zone grandi, drag 1-1 a ogni zoom, import ancorato"]
+  "assetSize": 100278776,
+  "sha256": "b124c1542c6088cb4c38d5820810dbd20a8b97dfd55246e62b1b90abca8304c5",
+  "signature": "",
+  "publishedAt": "2026-11-06T16:50:15Z",
+  "notes": ["Miglioramenti generali di stabilita, rifiniture UX e ottimizzazioni locali."]
 }
