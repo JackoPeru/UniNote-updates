@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 100278776,
   "sha256": "054efb760a9867a8348f598fb9e881e43e2c0a045614bde5cc841f4afe744889",
-  "signature": "",
+  "signature": "MEQCIBLwCUAW6+y0CTnVqsdyLZ90cIMZqJ5MaDVA5NicjjIfAiACxkTZk3jWc6gadWCxWUdW39edO/8kGo0SUCcfoc8ZnQ==",
   "publishedAt": "2026-11-06T17:15:55Z",
   "notes": ["Fix quinta immagine oltre viewport: wrapContentSize unbounded + test regressione"]
 }
