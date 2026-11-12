@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 99879470,
   "sha256": "76be45877ded6cb85b4381965833f3d19d6b204f2b863cce1f029d86fa87727c",
-  "signature": "",
+  "signature": "MEYCIQD8jFLfs8rUjqgf29DjlmeViJV2GC+3FMMJEfQn0Kn+vQIhANSsm33ktscdWMq0eXI0n8uChJBFMRD1T0YNN3hdU/3f",
   "publishedAt": "2026-11-12T19:29:49Z",
   "notes": ["Audit media giro 4: hit chiusi, store probe, backup MISSING, player lazy (fix verificati)", "Audit media giro 3: regressioni, player, formati, UX (fix verificati, niente release)", "Audit nov-2026: media foglio, buchi-test, runtime IA (fix verificati, niente release)"]
 }
