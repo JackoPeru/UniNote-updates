@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 99879474,
   "sha256": "0d9389974400e85dba109271cdc1ee127efe21ee76279b090965ed63f7a0395c",
-  "signature": "",
+  "signature": "MEUCIFOJbRCotFaktkGmQso0Ja3FNAhwKr4QYVH5ZKKrKx7RAiEA9r3Q51gIZXWw4TGCJlx8kZMaLckV0rTKl+Q7xzDFXWI="
   "publishedAt": "2026-11-14T19:10:09Z",
   "notes": ["Audit media giro 5: drag 1-1, tray/testo-penna, nav pan, tap dito (fix verificati)"]
 }
