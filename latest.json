@@ -1,12 +1,12 @@
 {
-  "versionCode": 1167,
-  "versionName": "0.1.0-gh1167",
-  "tagName": "autoupdate-1167",
-  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1167/UniNote-release.apk",
+  "versionCode": 1168,
+  "versionName": "0.1.0-gh1168",
+  "tagName": "autoupdate-1168",
+  "apkUrl": "https://github.com/JackoPeru/UniNote-updates/releases/download/autoupdate-1168/UniNote-release.apk",
   "assetName": "UniNote-release.apk",
-  "assetSize": 99879474,
-  "sha256": "0d9389974400e85dba109271cdc1ee127efe21ee76279b090965ed63f7a0395c",
-  "signature": "MEUCIFOJbRCotFaktkGmQso0Ja3FNAhwKr4QYVH5ZKKrKx7RAiEA9r3Q51gIZXWw4TGCJlx8kZMaLckV0rTKl+Q7xzDFXWI="
-  "publishedAt": "2026-11-14T19:10:09Z",
-  "notes": ["Audit media giro 5: drag 1-1, tray/testo-penna, nav pan, tap dito (fix verificati)"]
+  "assetSize": 99945598,
+  "sha256": "2dbc3bd56b92f43ebd3e5f6df0d2cd14867d8544f49cbbf5222bb470ba133d95",
+  "signature": "",
+  "publishedAt": "2026-11-25T17:45:20Z",
+  "notes": ["Generatore esami formato-libero: formato, sezioni, durata, test AI (verificato)", "Audit totale 2026-11-14: editor 1-owner, gomma/lasso geometrici, dati/backup, tutor journey, IA runtime, buchi-test (fix verificati)"]
 }
