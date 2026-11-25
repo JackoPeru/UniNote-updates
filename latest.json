@@ -6,7 +6,7 @@
   "assetName": "UniNote-release.apk",
   "assetSize": 99945598,
   "sha256": "2dbc3bd56b92f43ebd3e5f6df0d2cd14867d8544f49cbbf5222bb470ba133d95",
-  "signature": "",
+  "signature": "MEQCIGvPNECUHBhr8ASVr/zPo3utvy8iUqR36F0fMrqgu0OUAiBEtAAkytYSAhRANfiFuwEKGyEW5tNGB7I7KzmZqgWUfg==",
   "publishedAt": "2026-11-25T17:45:20Z",
   "notes": ["Generatore esami formato-libero: formato, sezioni, durata, test AI (verificato)", "Audit totale 2026-11-14: editor 1-owner, gomma/lasso geometrici, dati/backup, tutor journey, IA runtime, buchi-test (fix verificati)"]
 }
